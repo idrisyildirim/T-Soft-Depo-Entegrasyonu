@@ -1,0 +1,190 @@
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\T-Soft.exe.config
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T-Soft.exe
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T-Soft.pdb
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\T-Soft.exe
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\T-Soft.pdb
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.BonusSkins.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Data.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Utils.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\Newtonsoft.Json.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\RestSharp.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraBars.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Office.v19.1.Core.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Images.v19.1.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Data.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Utils.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\Newtonsoft.Json.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\RestSharp.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraBars.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\DevExpress.Office.v19.1.Core.xml
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\bin\Release\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T_Soft.frmAna.resources
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T_Soft.Properties.Resources.resources
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T_Soft.WaitForm1.resources
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T-Soft.csproj.GenerateResource.Cache
+C:\Users\Dehasoft\Documents\Visual Studio 2015\Projects\T-Soft\T-Soft\obj\Release\T-Soft.exe.licenses
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\T-Soft.exe.config
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\T-Soft.exe
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\T-Soft.pdb
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.BonusSkins.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Data.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Printing.v19.2.Core.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Sparkline.v19.2.Core.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Utils.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraEditors.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraGrid.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraLayout.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraPrinting.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\Newtonsoft.Json.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\RestSharp.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Pdf.v19.2.Core.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraBars.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.RichEdit.v19.2.Core.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraTreeList.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Office.v19.2.Core.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Images.v19.2.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Data.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Utils.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Sparkline.v19.2.Core.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraEditors.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Printing.v19.2.Core.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraGrid.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraLayout.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraPrinting.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\Newtonsoft.Json.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\RestSharp.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Pdf.v19.2.Core.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraBars.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.RichEdit.v19.2.Core.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.XtraTreeList.v19.2.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\DevExpress.Office.v19.2.Core.xml
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.Data.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.Data.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.Data.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.Data.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.Utils.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraEditors.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.Printing.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraGrid.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraLayout.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraBars.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\de\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\es\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ja\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\bin\Release\ru\DevExpress.Office.v19.2.Core.resources.dll
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T-Soft.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T_Soft.frmAna.resources
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T_Soft.Properties.Resources.resources
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T_Soft.WaitForm1.resources
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T-Soft.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T-Soft.exe.licenses
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T-Soft.csproj.CopyComplete
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T-Soft.exe
+C:\Users\hp\Desktop\Projeler\Ticari Projeler\T-Soft\T-Soft\obj\Release\T-Soft.pdb
